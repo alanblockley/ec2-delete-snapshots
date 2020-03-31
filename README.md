@@ -36,3 +36,7 @@ You can dry run this code by running it as below prior.
  
 This will then just output the list of snapshots that WOULD have been deleted. 
 
+# References
+https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-snapshots.html
+https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-snapshot.html
+https://forums.aws.amazon.com/thread.jspa?threadID=26955
