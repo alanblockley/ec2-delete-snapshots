@@ -12,6 +12,7 @@ A quick google showed many people had a way of doing this, some not as compatibl
 # The "Source"
 
 Using the aws cli in a bash shell, do the following.  You'll need;
+
  ..* A pattern, in this case, a description. 
  ..* Your region
  ..* an understanding of aws cli
